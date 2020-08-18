@@ -1,0 +1,44 @@
+.noticia{
+    margin: 10px;
+}
+
+.noticiaInfo{
+    top: 10%;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.date{
+    text-align: right;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    margin: 10px;
+    padding: 15px;
+}
+
+.imageContainer{
+    margin-top: -30px;
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.image{
+    border-radius: 3px;
+    object-fit: none;
+    max-height: 600px;
+    max-width: 1000px;
+    width: 100%;
+}
+
+.noticiaContent{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    margin-left: 0;
+    margin-top: 0px;
+    width: 100%;
+    text-align: justify;
+}

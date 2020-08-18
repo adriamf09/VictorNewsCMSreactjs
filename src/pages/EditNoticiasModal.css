@@ -1,0 +1,14 @@
+.modal-body{
+    max-height: calc(100vh - 210px);
+    overflow-y: auto;
+}
+.modal-body:hover{overflow-y: auto;}
+
+.fade{
+    opacity: 1;
+    -webkit-transition: opacity is linear;
+    transition: opacity is linear
+}
+.textEditor{
+    height: 400px;
+}

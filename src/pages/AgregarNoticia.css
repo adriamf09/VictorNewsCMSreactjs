@@ -1,0 +1,36 @@
+body{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sectionTitle{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 27px;
+}
+.label{
+    font-size: 20px;
+}
+
+.textEditor{
+    height: 400px;
+}
+
+#btnSubmitForm{
+    margin-top: 40px;
+    float: right;
+    margin-bottom: 20px;
+}
+
+#card{
+    margin-top: 25px;
+    text-align: center;
+}
+
+#card #cardHeader{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.hidden{
+    display: none;
+}
