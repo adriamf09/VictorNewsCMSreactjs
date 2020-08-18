@@ -49,7 +49,6 @@ export default class MenuPrincipal extends Component {
                     </Nav>
                     </Navbar.Collapse>
                 </Navbar>
-
                 <Switch>
                     <Route path="/inicio">
                         <ListadoNoticias/>
@@ -87,5 +86,6 @@ export default class MenuPrincipal extends Component {
                 </Switch>
             </Router>
         )
+        
     }
 }
